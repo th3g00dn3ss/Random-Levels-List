@@ -1,1 +1,14 @@
-
+{
+    "id": 1,
+    "name": "Random Stereo Madness",
+    "author": "Robtop",
+    "creators": ["Robtop"],
+    "verifier": "GRACEEE",
+    "verification": "https://www.youtube.com/watch?v=0R5MCQdRMZM",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+        }
+    ]
+}
